@@ -1,3 +1,5 @@
+TODO Try to be minimalist and straightforward - Description in progress 
+
 Hi, my name is Rick and I am a systems engineering student and full stack developer.
 
 I am a freelancer and I work on projects for clients and individual projects.
